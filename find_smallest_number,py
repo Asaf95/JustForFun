@@ -2,6 +2,7 @@
 Comparing Algorithms to find the smallest number in list
 """
 
+
 import datetime
 import random
 
